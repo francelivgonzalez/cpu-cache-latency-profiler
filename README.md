@@ -28,8 +28,8 @@ My main question is which cache boundaries I can identify from timing alone. I�
 
 ## Timeline
 
-- **August 1–7:** Build and validate the benchmark, then collect the first Intel measurements.
-- **August 8–15:** Repeat the runs, investigate transitions, and publish the Intel graph.
+- **August 1 - 7:** Build and validate the benchmark, then collect the first Intel measurements.
+- **August 8 – 15:** Repeat the runs, investigate transitions, and publish the Intel graph.
 - **Ryzen follow-up:** Run the same source and settings on my 9800X3D when the desktop is ready.
 
 ## Results I plan to publish
