@@ -1,7 +1,7 @@
 # CPU Cache Latency Profiler
 
 **Status:** Planned
-**Projected timeline:** August 1–15, 2027 for the Intel measurements
+**Projected timeline:** August 1-15, 2027 for the Intel measurements
 **First system:** Intel Core i7-9850H in my HP ZBook
 **Second system:** AMD Ryzen 7 9800X3D once my desktop is built
 **Tools:** C++, Python, and Matplotlib
